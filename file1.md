@@ -1,8 +1,8 @@
-1
-s
-f
-g
-j
-i
-i
-y
+1  
+s  
+f  
+g  
+j  
+i  
+i  
+y  
